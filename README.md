@@ -1,4 +1,4 @@
-Através da criação desses mini programas, pude aprender sobre:
+Através da criação desses pequenos projetos, pude aprender sobre:
 
 Introdução ao JavaScript e Sintaxe Básica:
 
