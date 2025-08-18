@@ -1,3 +1,5 @@
+Através da criação desses mini programas, pude aprender sobre:
+
 Introdução ao JavaScript e Sintaxe Básica:
 
     O que é JavaScript e para que serve?;
